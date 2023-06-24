@@ -31,6 +31,6 @@ Over time, I have gained knowledge and experience in various computer applicatio
 
 I am passionate about my work, considering it both a profession and a hobby. I take pride in staying up-to-date with the latest developments in the field of technology and strive to continuously improve my skills and knowledge.
 
-Feel free to visit my website at [www.nasirit.com](https://www.nasirit.com) to learn more about my projects and achievements.
+Feel free to visit my website at [www.nasirit.com](https://www.nasirit.com)
 
 Thank you for taking the time to get to know me. Feel free to connect with me and explore my repositories!
