@@ -3,7 +3,7 @@
 ## About Me
 
 - 🎓 I have recently completed my MSc in Computer Science from Jahangirnagar University.
-- 💼 Currently, I work as an IT Assistant at Morning Glory School & College.
+- 💼 Currently, I work as IT System Analyst and Web Programmar.
 - 🏠 Originally from Faridpur, now residing in Savar, Dhaka.
 
 ## Interests
