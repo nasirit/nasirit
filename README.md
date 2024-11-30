@@ -3,7 +3,7 @@
 ## About Me
 
 - 🎓 I have recently completed my MSc in Computer Science from Jahangirnagar University.
-- 💼 Currently, I work as IT System Analyst and Web Programmar.
+- 💼 Currently, I work as ERP, IT System Analyst and Web Programmar.
 - 🏠 Originally from Faridpur, now residing in Savar, Dhaka.
 
 ## Interests
@@ -19,7 +19,6 @@ I am always eager to learn new things and apply my knowledge in my professional 
 ## Skills
 
 Over time, I have gained knowledge and experience in various computer applications, including:
-- 📊 SEO
 - 🌐 PHP programming, HTML, and web development
 - 🔒 System security and network security
 - 📁 System design and software development
