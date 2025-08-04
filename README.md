@@ -2,8 +2,8 @@
 
 ## About Me
 
-- 🎓 I have recently completed my MSc in Computer Science from Jahangirnagar University.
-- 💼 Currently, I work as ERP, IT System Analyst and Web Programmar.
+- 🎓 I have completed my MSc in Computer Science from Jahangirnagar University.
+- 💼 Currently, I work as ERP , IT System Analyst and Web Programmar.
 - 🏠 Originally from Faridpur, now residing in Savar, Dhaka.
 
 ## Interests
